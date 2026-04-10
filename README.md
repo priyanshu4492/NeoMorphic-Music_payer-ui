@@ -18,7 +18,8 @@ This project focuses on soft UI design with realistic shadows and smooth user ex
 
 ## 📸 Preview
 
-![Preview](assets/images/image.png)
+<img width="307" height="627" alt="image" src="https://github.com/user-attachments/assets/5e3e5837-811a-470f-9ea9-ab11e5a2f725" />
+
 
 ---
 
